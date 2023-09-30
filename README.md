@@ -111,9 +111,9 @@ This repository contains the source code for a bus reservation system. The syste
 
   
     #### Deepanshu Deep
-    > Github:[avinashkumar-06](https://github.com/Deepanshu-Deep)
+    > Github:[Deepanshu-Deep](https://github.com/Deepanshu-Deep)
     
-    > LinkedIn:[avinashkumar06](https://www.linkedin.com/in/deepanshu-deep-8969a0242/)
+    > LinkedIn:[Deepanshu-Deep](https://www.linkedin.com/in/deepanshu-deep-8969a0242/)
 
 
  
