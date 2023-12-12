@@ -6,10 +6,10 @@ This repository contains the source code for a bus reservation system. The syste
 # Bus Reservation System 
 <img src="https://github.com/Deepanshu-Deep/Bus-Reservation-Sytem/blob/main/Frontend/assests/banner.png?raw=true"  style = "width:90%; height:450px" />
 
-* Bus Reservation System is a full stack project where REST API's are developed using Java and Spring Boot technologies and UI or frontend is developed using HTML,CSS,     JavaScript
+* Bus Reservation System is a full stack project where REST API's are developed using Java and Spring Boot technologies and UI or frontend is developed using HTML,CSS,JavaScript
 *  These API's performs all the fundamental CRUD operations of any Bus Reservation Application platform with user validation at every step.
 *  Our frontend application consumes these API's and allows customer to perform all the operations easily with user friendly UI.
-* This project is developed by team of 4 Back-end Developers during project week in Masai School. 
+
 
 ## Tech Stack
 
