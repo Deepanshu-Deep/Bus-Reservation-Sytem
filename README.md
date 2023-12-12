@@ -85,23 +85,23 @@ This repository contains the source code for a bus reservation system. The syste
 * Update the port number, username and password as per your local database config.
 
 ```
-    server.port=8818
+    server.port=8080
 
     spring.datasource.url=jdbc:mysql://localhost:3306/bus_reservation_db
     spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver
-    spring.datasource.username=root
-    spring.datasource.password=root
+    spring.datasource.username=your_db_usename
+    spring.datasource.password=your_db_password
 
 ```
 * Now you can perform all the operations by using either our web application or Swagger.
 
 ## API Root Endpoint
 ```
-`http://localhost:8818/`
+`http://localhost:8080/`
 ```
 
 ```
-`http://localhost:8818/swagger-ui.html`
+`http://localhost:8080/swagger-ui.html`
 ```
 
 
